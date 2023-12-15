@@ -11,4 +11,5 @@ Minecraft username checker (.EXE + .PY)
 
  - Requests
    - ```python
-     pip install requests```
+     pip install requests
+     ```
