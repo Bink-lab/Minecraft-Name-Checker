@@ -13,5 +13,8 @@ Minecraft username checker (.EXE + .PY)
  - Requests
    - ```python
      pip install requests
+     ```
+ - Keyboard
+   - ```python
      pip install keyboard
      ```
