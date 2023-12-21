@@ -1,6 +1,7 @@
 import requests
 import json
-import keyboar
+import keyboard
+import time
 
 print("""
 ██████╗░██╗███╗░░██╗██╗░░██╗░░░░░░██╗░░░░░░█████╗░██████╗░
@@ -35,6 +36,5 @@ Made with love by sidney
 Github: https://github.com/Bink-lab/Minecraft-Name-Checker
       """)
 
-
-print("Press enter to continue...")
-keyboard.wait('enter')
+print("Press 'esc' to exit")
+keyboard.wait("esc")
